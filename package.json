@@ -1,0 +1,15 @@
+{
+  "name": "myproject",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Ejercicio de demostración",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Luciano",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
